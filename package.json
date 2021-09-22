@@ -1,5 +1,5 @@
 {
-  "homepage": "https://marlondvalencia.github.io/counter-app",
+  "homepage": "https://MarlonDValencia.github.io/counter-app",
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,8 @@
     "pages": "^0.0.16",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-script": "^2.0.5",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

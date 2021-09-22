@@ -1,0 +1,13 @@
+.container{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  border: medium solid rgb(231, 231, 231);
+  border-radius: 20px;
+  padding-bottom: 6px;
+}
+
+
+.content{
+  padding-top: 20%;
+}
